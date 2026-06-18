@@ -134,12 +134,23 @@ The ML layer is organized into **six analytical axes**, each aligned with busine
 
 ---
 
-## ⚠️ Trained Models Notice
+## ⚠️ Repository Storage Optimization
 
-Due to GitHub file size limitations, **trained machine learning models**
-(`.pkl`, `.joblib`) are **not included** in this repository.
+The following files are **excluded from version control** to keep the repository lightweight:
 
-All models can be **reproduced** by running the training notebooks and scripts provided.
+| Excluded | Reason | Location |
+|----------|--------|----------|
+| `.csv` | Large data files | `01-data/` |
+| `.bak` | SQL Server backups | `02-ssis-pipeline/` |
+| `.mp4` | Demo videos | `06-results/` |
+| `.sql` | Database scripts | Various |
+| `__pycache__/`, `*.pyc` | Python cache | All |
+
+**To reproduce the full project:**
+
+1. **Data Pipeline:** Import raw Excel files and run SSIS Package (`02-ssis-pipeline/Package.dtsx`)
+2. **Data Cleaning:** Execute notebooks in `01-data/processed/` to generate clean CSV files
+3. **ML Models:** Run training notebooks in `03-machine-learning/` to regenerate `.pkl` and `.joblib` model files
 
 ## 📊 Project Structure
 
