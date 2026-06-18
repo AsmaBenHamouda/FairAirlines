@@ -40,7 +40,7 @@ The project addresses the following strategic objectives:
 ## 🌳 Business Objective Tree
 📎 *Objective tree illustrating the alignment between business goals, analytical axes*
 
-👉 [Link to Business Objective Tree ](https://lucid.app/lucidspark/d0dfadc1-6138-4b4f-96e4-148cf4641eff/edit?viewport_loc=-2385%2C-671%2C6194%2C2944%2C0_0&invitationId=inv_c1cf9222-ecd7-4cf5-be78-3c7a04c47418)
+👉 [Link to Business Objective Tree](https://lucid.app/lucidspark/d0dfadc1-6138-4b4f-96e4-148cf4641eff/edit?viewport_loc=-2385%2C-671%2C6194%2C2944%2C0_0&invitationId=inv_c1cf9222-ecd7-4cf5-be78-3c7a04c47418)
 ![Business Objective Tree](00-documentation\Arbre de décision.png)
 
 ---
