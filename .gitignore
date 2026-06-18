@@ -1,0 +1,8 @@
+*.mp4
+*.bak
+*.csv
+*.zip
+*.sql
+__pycache__/
+*.pyc
+05-django-app/master/
