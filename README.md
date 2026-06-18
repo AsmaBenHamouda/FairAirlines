@@ -41,7 +41,7 @@ The project addresses the following strategic objectives:
 📎 *Objective tree illustrating the alignment between business goals, analytical axes*
 
 👉 [Link to Business Objective Tree](https://lucid.app/lucidspark/d0dfadc1-6138-4b4f-96e4-148cf4641eff/edit?viewport_loc=-2385%2C-671%2C6194%2C2944%2C0_0&invitationId=inv_c1cf9222-ecd7-4cf5-be78-3c7a04c47418)
-![Business Objective Tree](00-documentation\Arbre de décision.png)
+![Business Objective Tree](00-documentation/Arbrededécision.png)
 
 ---
 
@@ -49,7 +49,7 @@ The project addresses the following strategic objectives:
 📎 *Snowflake schema representing fact and dimension tables used for BI and ML*  
 
 👉 [Link to Data Warehouse Design](https://lucid.app/lucidchart/ca3b70e2-03fd-453c-a693-60c630d88930/edit?viewport_loc=-251%2C-556%2C3582%2C1723%2C0_0&invitationId=inv_fc4468c0-bf06-4ba4-99d4-268da63b6e93)
-![Data Warehouse Design]("02-ssis-pipeline\diagrams\DW_SCHEMA.png")
+![Data Warehouse Design](02-ssis-pipeline/diagrams/DW_SCHEMA.png)
 
 
 ---
@@ -58,7 +58,7 @@ The project addresses the following strategic objectives:
 
 The project follows a complete **end-to-end data pipeline**, from raw data ingestion to analytics and prediction.
 
-![Pipeline Architecture](06-results\pipeline_architecture.png)
+![Pipeline Architecture](06-results/pipeline_architecture.png)
 
 ---
 
